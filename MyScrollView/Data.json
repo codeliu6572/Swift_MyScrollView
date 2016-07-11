@@ -1,0 +1,49 @@
+{
+  "focusImgs" : [
+    {
+      "id" : "1939981",
+      "imgURL" : "http://pic.xcarimg.com/img/news_photo/2016/06/12/a_Pwj4XbiWz71465686373863486146568637386.jpg",
+      "newsLink" : "http://wap.xcar.com.cn/cms/interface/5.0/iPhone_news.php?id=1939981",
+      "pageNum" : 1,
+      "title" : "不满合资品牌？25万拥有进口SUV不是梦",
+      "type" : "news",
+      "webLink" : "http://newcar.xcar.com.cn/201606/news_1939981_1.html"
+    },
+    {
+      "id" : "26706727",
+      "imgURL" : "http://pic.xcarimg.com/img/news_photo/2016/06/11/FL4KwCzaVj1465655890969416146565589096.jpg",
+      "newsLink" : "http://wap.xcar.com.cn/bbs/bbs_iphone_5.php?tid=26706727",
+      "pageNum" : "1",
+      "title" : "恋上“大黑牛” 稳中求胜提兰德酷路泽",
+      "type" : "bbs",
+      "webLink" : "http://www.xcar.com.cn/bbs/viewthread.php?tid=26706727"
+    },
+    {
+      "id" : "1940628",
+      "imgURL" : "http://pic.xcarimg.com/img/news_photo/2016/06/12/Mdt2ln71gW1465686409875405146568640987.jpg",
+      "newsLink" : "http://wap.xcar.com.cn/cms/interface/5.0/iPhone_news.php?id=1940628",
+      "pageNum" : 1,
+      "title" : "拯救充电焦虑哪家强？六款充电APP测评",
+      "type" : "news",
+      "webLink" : "http://yp.xcar.com.cn/201606/news_1940628_1.html"
+    },
+    {
+      "id" : "1940716",
+      "imgURL" : "http://pic.xcarimg.com/img/news_photo/2016/06/12/a3EhkqEXit1465686457035644146568645703.jpg",
+      "newsLink" : "http://wap.xcar.com.cn/cms/interface/5.0/iPhone_news.php?id=1940716",
+      "pageNum" : 1,
+      "title" : "新手的礼物 试杜卡迪Scrambler SIXTY2",
+      "type" : "news",
+      "webLink" : "http://drive.xcar.com.cn/201606/news_1940716_1.html"
+    },
+    {
+      "id" : "26620246",
+      "imgURL" : "http://pic.xcarimg.com/img/news_photo/2016/06/11/1HLNbNtz9H1465655908261464146565590826.jpg",
+      "newsLink" : "http://wap.xcar.com.cn/bbs/bbs_iphone_5.php?tid=26620246",
+      "pageNum" : "1",
+      "title" : "修身养性好去处 慵懒午后相约海口湿地",
+      "type" : "bbs",
+      "webLink" : "http://www.xcar.com.cn/bbs/viewthread.php?tid=26620246"
+    }
+  ]
+}
